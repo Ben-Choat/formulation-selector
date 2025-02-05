@@ -1,0 +1,14 @@
+dask[complete]
+geopandas
+joblib
+matplotlib
+multidict
+netCDF4
+pandas
+pyarrow
+pynhd
+pyyaml
+scikit-learn
+seaborn
+wheel
+xarray

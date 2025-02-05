@@ -47,7 +47,7 @@ You may consider creating a new virtual environment for employing `formulation-s
 - numpy
 - pandas
 - pyyaml
-- scikit_learn
+- scikit-learn
 - setuptools
 - xarray
 
