@@ -17,9 +17,8 @@ setup(
         'pandas',
         'pyyaml',
         'wheel',
-        'xarray',
-        'zarr'
-    ],
+        'xarray'
+            ],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
